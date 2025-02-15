@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Dr Nauman Khalid!  
 
+## 🚀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=DrNaumankhalid&color=brightgreen)
+
 🎓 **Mathematics Educator | Researcher | Computational Mathematician**  
 📍 **Faisalabad, Pakistan**  
 🔬 **Specializing in Numerical Computing, Fractional Calculus & Machine Learning**  
@@ -95,8 +98,7 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DrNaumankhalid&theme=radical)
 
-## 🚀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=DrNaumankhalid&color=brightgreen)
+
 ---
 
 📌 **⭐ Feel free to star my repositories and follow me for updates!** ⭐  
