@@ -1,4 +1,3 @@
-# Dr-Nauman-Khalid
 # 👋 Hi, I'm Dr Nauman Khalid!  
 
 🎓 **Mathematics Educator | Researcher | Computational Mathematician**  
